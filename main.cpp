@@ -37,6 +37,7 @@ public:
     ContactManager() {
         loadFromFile();
     }
+    
 
     void addContact() {
     Contact c;
